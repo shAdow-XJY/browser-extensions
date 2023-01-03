@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "title",
+    "description": "popup title"
+  },
+  "btn": {
+    "message": "change local language",
+    "description": "change local language button"
+  }
+}

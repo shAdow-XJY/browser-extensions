@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "theme-v2.0.0",
+  "version": "2.0.0",
+  "theme": {
+    "colors" : {
+      "frame" : "rgb(1, 2, 10)",
+      "toolbar" : "rgb(26, 35, 126)",
+      "tab_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(225, 190, 231)",
+      "tab_loading": "rgb(206, 147, 216)",
+      "tab_selected": "rgb(156, 39, 176)",
+      "tab_background_text": "rgb(244, 9, 9)",
+      "tab_background_separator": "rgb(123, 31, 162)"
+    }
+  }
+}

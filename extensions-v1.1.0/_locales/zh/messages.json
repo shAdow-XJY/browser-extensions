@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "标题",
+    "description": "弹出标题"
+  },
+  "btn": {
+    "message": "切换回本地语言",
+    "description": "切换回本地语言按钮"
+  }
+}

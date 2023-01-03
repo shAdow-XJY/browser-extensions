@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "extensions-v1.1.0",
+    "description": "Base Level Extension",
+    "version": "1.1.0",
+    "action": {
+      "default_popup": "lib/popup/default_popup.html",
+      "default_icon": "img/avatar/maye.png"
+    },
+    "default_locale" : "en"
+}
